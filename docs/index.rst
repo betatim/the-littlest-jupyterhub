@@ -81,8 +81,10 @@ Topic guides provide in-depth explanations of specific topics.
    topic/requirements
    topic/security
    topic/customizing-installer
+   topic/installer-actions
    topic/tljh-config
    topic/authenticator-configuration
+   topic/escape-hatch
 
 
 Troubleshooting
@@ -117,4 +119,5 @@ to people contributing in various ways.
    :titlesonly:
 
    contributing/docs
+   contributing/code-review
    contributing/dev-setup
